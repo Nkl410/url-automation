@@ -1,0 +1,1 @@
+Ce code permet d'importer de manière automatique des photos dans un excel, sur votre drive et récupère de manière automatique les liens url des photo en binaire et ajoute tout ces liens dans un fichier excel
