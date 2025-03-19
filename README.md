@@ -1,1 +1,3 @@
-Ce code permet d'importer de manière automatique des photos dans un excel, sur votre drive et récupère de manière automatique les liens url des photo en binaire et ajoute tout ces liens dans un fichier excel
+Ce code permet d'importer automatiquement des photos dans un fichier Excel sur votre Drive, récupère automatiquement les liens URL des photos en binaire et ajoute tous ces liens dans un fichier Excel. Il faudra créer deux fichiers annexes : un fichier credentials.json sous cette forme (avec vos informations personnelles) :
+{"installed":{"client_id":"850631296031-qs69cr0j7295bm8mu9fao2go8.apps.googleusercontent.com","project_id":"upload-images-api","auth_uri":"https://accounts.google.com/o/oauth2/auth","token_uri":"https://oauth2.googleapis.com/token","auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs","client_secret":"sJVE6eeahYEy3QQ3sYuu3o","redirect_uris":["http://localhost"]}}
+
